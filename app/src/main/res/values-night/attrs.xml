@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="EditStringText">
+        <attr name="textViewText" format="string"/>
+        <attr name="editTextHint" format="string"/>
+        <attr name="errorText" format="string"/>
+        <attr name="dataType" format="integer"/>
+        <attr name="dataLength" format="integer"/>
+    </declare-styleable>
+</resources>

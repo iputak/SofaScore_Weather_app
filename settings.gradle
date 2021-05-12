@@ -1,0 +1,2 @@
+rootProject.name = "SofaScore_Weather_app"
+include ':app'

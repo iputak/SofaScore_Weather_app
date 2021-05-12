@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Super Zakon Vremenska Aplikacija</string>
+    <string name="selected_language">Hrvatski</string>
+    <string name="show">Pokaži</string>
+    <string name="hide">Sakrij</string>
+    <string name="hello_world">Pozdrav Svijete!</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- <string name=" "> </string> -->
+    <string name="add">Dodaj</string>
+    <string name="contacts">Kontakti</string>
+    <string name="createNewPerson">Kreiraj novu osobu</string>
+    <string name="firstName">Ime</string>
+    <string name="firstNameError">Ime ne može biti duže od 20 znakova</string>
+    <string name="lastName">Prezime</string>
+    <string name="lastNameError">Prezime ne može biti duže od 20 znakova</string>
+    <string name="age">Godine</string>
+    <string name="ageError">Godine ne mogu biti veće od 150</string>
+    <string name="oibError">OIB mora imati 11 znamenki</string>
+    <string name="number">Broj</string>
+    <string name="gender">Spol</string>
+    <string name="male">Muško</string>
+    <string name="female">Žensko</string>
+    <string name="language">Jezik</string>
+    <string name="croatian">Hrvatski</string>
+    <string name="english">Engleski</string>
+    <string name="select">Odaberite jednu od opcija</string>
+    <!-- Settings -->
+    <string name="settings">Postavke</string>
+    <string name="theme">Tema</string>
+    <string name="chooseLanguage">Odabir jezika</string>
+    <!-- Arrays -->
+    <!-- Languages -->
+    <string-array name="languages_array">
+        <item>Engleski</item>
+        <item>Hrvatski</item>
+    </string-array>
+    <string name="image">Slika</string>
+    <string name="imgUrlHint">https://www.sofascore.com/static/images/apple-icon-180x180.png</string>
+    <string name="toastPost">Polja za unos su resetirana</string>
+    <string name="snackbarPost">Kontakt dodan!</string>
+    <string name="search">Pretraga</string>
+    <string name="searchCities">Pretraga gradova</string>
+    <string name="recent">Nedavno</string>
+    <string name="myCities">Moji gradovi</string>
+    <string name="wind">Vjetar</string>
+    <string name="humidity">Vlažnost</string>
+    <string name="pressure">Pritisak</string>
+    <string name="visibility">Vidljivost</string>
+    <string name="accuracy">Točnost</string>
+    <string name="today">Danas</string>
+    <string name="nextSevenDays">Slijedećih 7 dana</string>
+    <string name="viewMore">Više</string>
+    <string name="city">Grad</string>
+    <string name="chooseUnit">Odabir mjernog sustava</string>
+    <string name="imperial">Imperijalni</string>
+    <string name="metric">Metrički</string>
+    <string name="about">O aplikaciji</string>
+    <string name="moreInfo">Više informacija</string>
+    <string name="clearCities">Brisanje liste gradova</string>
+    <string name="clearSearch">Brisanje nedavne liste pretraživanja</string>
+    <string name="project_name">SofaScore Android Academia</string>
+    <string name="projectName">SofaScore Android Academia</string>
+    <string name="appName">Super Zakon Vremenska Aplikacija</string>
+    <string name="apiCredit">API Zasluge</string>
+    <string name="classYear">Klasa 2021</string>
+    <string name="developer">Programer</string>
+    <string name="clearSearchPopoverHeadline">Brisanje nedavne liste pretraživanja?</string>
+    <string name="clearSearchPopoverText">Ako izbrišete popis nedavnog pretraživanja, početni zaslon bit će prazan.</string>
+    <string name="cancel">Prekid</string>
+    <string name="clear">Brisanje</string>
+    <string name="clearSearchSnackbarText">Popis nedavnog pretraživanja je prazan.</string>
+    <string name="appNameHint">Naziv aplikacije</string>
+    <string name="clearCitiesPopoverHeadline">Brisanje liste gradova?</string>
+    <string name="clearCitiesPopoverText">Ako izbrišete popis gradova, \"Moji gradovi\" bit će prazan.</string>
+    <string name="clearCitiesSnackbarText">Popis gradova je prazan.</string>
+</resources>
