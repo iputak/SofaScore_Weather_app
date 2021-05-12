@@ -1,3 +1,3 @@
 # SofaScore_Weather_app
 
-Weather app with metawether API.
+Weather app with www.metaweather.com API.
